@@ -1,0 +1,14 @@
+{
+    "name": "wl/service",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wenlei",
+            "email": "wen1111lei@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0.0"
+    }
+}
