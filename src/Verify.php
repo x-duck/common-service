@@ -5,6 +5,6 @@ class Verify
 {
     public function index ()
     {
-        echo "this is Verify 2";
+        echo "this is Verify 3";
     }
 }
